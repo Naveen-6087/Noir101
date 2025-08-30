@@ -1,0 +1,6 @@
+[package]
+name = "day01_hello_world"
+type = "bin"
+authors = [""]
+
+[dependencies]
