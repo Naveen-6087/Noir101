@@ -1,0 +1,6 @@
+[package]
+name = "day02_zk_ecdsa"
+type = "bin"
+authors = ["Naveen V"]
+
+[dependencies]
