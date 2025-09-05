@@ -1,0 +1,6 @@
+[package]
+name = "day03_age_verification"
+type = "bin"
+authors = [""]
+
+[dependencies]
