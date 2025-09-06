@@ -1,0 +1,6 @@
+[package]
+name = "day04_range_proofs"
+type = "bin"
+authors = [""]
+
+[dependencies]
