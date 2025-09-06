@@ -1,0 +1,6 @@
+voter_id = 12345
+vote_choice = 1
+voter_secret = 98765
+election_id = 2025001
+min_voter_id = 10000
+max_voter_id = 99999
