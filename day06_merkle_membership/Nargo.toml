@@ -1,0 +1,6 @@
+[package]
+name = "day06_merkle_membership"
+type = "bin"
+authors = [""]
+
+[dependencies]
