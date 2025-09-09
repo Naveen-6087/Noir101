@@ -1,0 +1,6 @@
+bid_amount = 2500
+account_balance = 5000
+nonce = 12345
+reserve_price = 1000
+max_bid_limit = 10000
+commitment_hash = "0x066dfc5c99aa03e1b749e32517a2cdd570cbd22c84ee269d7a72f7e58ea3abce"

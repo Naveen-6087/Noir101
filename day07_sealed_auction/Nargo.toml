@@ -1,0 +1,6 @@
+[package]
+name = "day07_sealed_auction"
+type = "bin"
+authors = ["Naveen V"]
+
+[dependencies]
